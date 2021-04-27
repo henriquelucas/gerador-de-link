@@ -1,0 +1,122 @@
+body {
+    margin:  0;
+    background-color: #161521;
+    font-family: sans-serif;
+    color: #333;
+}
+header {
+	padding: 20px;
+    background: #161521;
+}
+header h1 {
+	color: #ffcc00;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+footer {
+	text-align: center;
+    background: #12111b;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.footer {
+	padding:25px;
+}
+.footer i {
+	float:none;
+	font-size: 16px;
+    color: #bf1010;
+    margin-right: 0;
+}
+.seguro {
+	padding: 30px;
+	background: #12111b;
+}
+.seguro p {
+	font-size: 24px;
+    line-height: 24px;
+    color: #7d7c82;
+}
+.openlink {
+	text-align: center;
+    color: #c1c1c1;
+}
+.conf {
+	margin: 60px;
+    justify-items: center;
+}
+.button {
+	border-radius: 25px;
+    padding: 7px;
+    font-weight: 600;
+    border: 2px solid #ffd43b;
+    color: #ffd43b;
+}
+.far {
+	float: left;
+    font-size: 3rem;
+    color: #323048;
+    margin-right: 14px;
+}
+.fal {
+	float: left;
+    font-size: 3rem;
+    color: #323048;
+    margin-right: 14px;
+}
+.hed-go {
+    height: 97px;
+    width:  100%;
+    background-image: url('img/topo.jpg');
+            background-size: 100%;
+            margin-bottom:  50px;
+            background-repeat:  no-repeat;
+        }
+
+        .footer-go {
+            height: 97px;
+            width: 100%;
+            background-image: url(img/rodape.jpg);
+            background-size: 100%;
+            background-repeat: no-repeat;
+            margin-top:  50px;
+        }
+
+button.download-btn {
+    height: 50px;
+    background-image:  url('img/download.gif');
+    background-size:  100% 100%;
+    padding:  0;
+    border:  0;
+    width: 150px;
+    cursor:  pointer;
+    outline:  none;
+}
+
+@media only screen and (max-width: 480px) {
+    .block {
+		display:none;
+	}
+	.seguro p {
+	    font-size: 15px;
+        line-height: 24px;
+       color: #7d7c82;
+    }
+   
+    .far {
+	    float: left;
+        font-size: 3rem;
+        color: #323048;
+        margin-right: 14px;
+    }
+	
+    .fal {
+	    float: left;
+        font-size: 3rem;
+        color: #323048;
+        margin-right: 14px;
+    }
+}
