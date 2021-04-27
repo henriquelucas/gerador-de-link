@@ -1,5 +1,6 @@
 # Gerador de Link 1.0
 ![alt text](https://i.ibb.co/cTVd0YK/s.png)
+
 É um script PHP desenvolvido para gerar links de proteção da download de arquivos. Para instalação do mesmo é bastante simples e poderá ser feito nos passoas abaixo
 
 - Faça o Upload dos arquivos para seu servidor
