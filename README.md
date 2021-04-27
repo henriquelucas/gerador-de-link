@@ -13,3 +13,5 @@ Login: admin
 Senha: admin
 
 Para alterar a senha padrão edite o arquivo: login.php com as suas informações de login.
+
+Por favor, não reevenda esse código ele foi criado de forma livre para ajudar pessoas!
